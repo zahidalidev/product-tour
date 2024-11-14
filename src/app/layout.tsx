@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from 'next/font/google'
 
 import { SidebarProvider } from "@/components/ui/sidebar";
-import { ProductTourSidebar } from "@/components/sidebar";
+// import { ProductTourSidebar } from "@/components/sidebar";
 import "./globals.css";
 
 export const metadata: Metadata = {
